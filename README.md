@@ -72,4 +72,6 @@ Found a bug or have an idea? Send me a message and a screenshot if aplicable. I 
 
 ## License
 
-[MIT](LICENSE)
+The code is [MIT](LICENSE). The art is not: all of Bogey's artwork is
+copyright SmokierOcean, all rights reserved, and may only be shared as part
+of the unmodified app. See [LICENSE](LICENSE) for the details.
