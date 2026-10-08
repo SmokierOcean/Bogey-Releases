@@ -19,7 +19,7 @@ The app needs macOS 12 Monterey or newer, on either Apple Silicon or Intel Macs.
 
 ## Install
 
-1. Download the latest `.dmg` from https://github.com/SmokierOcean/Bogey-Releases.
+1. Download the latest `.dmg` from the [Releases page](https://github.com/SmokierOcean/Bogey-Releases/releases).
 2. Open the downloaded file and drag **Bogey** into your **Applications** folder.
 
 ## First launch on macOS
