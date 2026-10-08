@@ -2,7 +2,7 @@
 
 A tiny desktop companion for your Mac, based on a very good office dog.
 
-![Bogey](docs/bogey-screenshot.png)
+<img src="docs/bogey-screenshot.png" alt="Bogey" width="347">
 
 > **Beta:** This is an early release. Expect a few rough edges, and feel free to report anything weird.
 
