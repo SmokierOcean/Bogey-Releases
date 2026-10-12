@@ -10,7 +10,7 @@ A tiny desktop companion for your Mac, based on a very good office dog.
 
 ## What is Bogey?
 
-You know him, you love him, now he can hang with you even when the real thing isnt around!
+You know him, you love him, now he can hang with you even when the real thing isn't around!
 Bogey lives on your desktop. He wanders around, sits, sleeps, does tricks, and generally keeps you company while you work.
 
 ## Requirements
@@ -24,7 +24,7 @@ The app needs macOS 12 Monterey or newer, on either Apple Silicon or Intel Macs.
 
 ## First launch on macOS
 
-Bogey is unsigned, which just means I haven't paid Apple's developer fee. macOS will warn you the first time you open it. This is expected and only happens once.
+Bogey is unsigned, which just means I haven't paid Apple's developer fee. macOS will warn you the first time you open it. This is expected and happens once per version.
 
 **To get past it:**
 
@@ -62,13 +62,13 @@ Quit Bogey from the menu bar icon, then drag the app from **Applications** to th
 
 ## Feedback
 
-Found a bug or have an idea? Send me a message and a screenshot if aplicable. I would love your feedback!
+Found a bug or have an idea? Send me a message and a screenshot if applicable. I would love your feedback!
 
 ## Credits
 
 - Bogey is based on the best lil guy! 
 - All art and design by Adam.
-- Coding wizerdry by Claude
+- Coding wizardry by Claude
 
 ## License
 
